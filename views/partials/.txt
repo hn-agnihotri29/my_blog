@@ -1,0 +1,1 @@
+Putting header and footer inside a partials folder
